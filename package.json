@@ -1,0 +1,17 @@
+{
+  "name": "shelphy-landing-page",
+  "version": "1.0.0",
+  "description": "Base code structure for the Shelphy photo printer landing page.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
